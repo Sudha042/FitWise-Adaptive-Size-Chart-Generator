@@ -66,7 +66,7 @@ The Random Forest algorithm is used for clustering users and predicting sizes. Y
 
 ## Link to the Project
 
-You can access the complete project solution [[here](https://colab.research.google.com/drive/10fC9aqtSLEtKlk0LofRcfJ2C81oMUT1c?usp=sharing)].
+You can access the complete project solution [[here](https://colab.research.google.com/drive/1p2EA-zPY9mEHJciv7tTI0n9CH8znHJXt?usp=sharing)].
 
 ## Judging Criteria
 
